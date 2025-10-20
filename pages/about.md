@@ -45,7 +45,6 @@ My current interests include high-dimensional image processing, machine learning
 - *2025.04: &nbsp; One paper is accepted by _**2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)**_. 
 - *2024.10*: &nbsp; One paper is accepted by _**工程数学学报**_. 
 
-
 # 🧰 Projects
 
 -  [Tensor Decomposition](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
@@ -53,19 +52,30 @@ My current interests include high-dimensional image processing, machine learning
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TenNet_ToolBox"><img src="https://yubangzheng.github.io/images/tennettoolbox.png" width="250"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TSVD_ToolBox"><img src="https://yubangzheng.github.io/images/tnntoolbox.png" width="250"></a>
 
+
+
+# <img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20251020132734242.png" alt="image-20251020132734242" style="zoom:25%;" /> Course and Blog
+
+- [Deep Leaning with PyTorch](https://blog.csdn.net/weixin_40234309/category_12167779.html)
+- [Modeling and Practice of Machine Learning](https://blog.csdn.net/weixin_40234309/category_12088843.html)
+- [Algorithm Design and Intelligence Computing](https://blog.csdn.net/weixin_40234309/category_12220879.html)
+- [Sparse and Low-Rank Representation of High-Dimensional Data](https://blog.csdn.net/weixin_40234309/category_12116221.html)
+
+
+
 <!--
 
-# 📝 Preprints 
+# 📝 Preprints
 
-
+- **Chun-Zhong Li**, Xiao-Hua Yu, Xiao-Hua Wu, Bing Wang*, Tian-Yu Xia. "stDSGCL: Dual Spatially-Aware Graph Contrastive Learning for Identifying Spatial Domains in Spatial Transcriptomics",  will appear in BIBM 2025 
 
 -->
 
-# 📄 Publications 
+# 📄 Publications
 
 ## 2025
 
-- **Yu-Bang Zheng**, Jia-Le Ma, Heng-Chao Li\*, Zhi-Wei Shi, Qing Zhu, \"Bilateral Tensor Ring Decomposition for Thick Cloud Removal in Multitemporal Remote Sensing Images\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, art no. 5406215, pp. 1-15, 2025. [[Website]](https://ieeexplore.ieee.org/document/11123527) [[Code]](https://yubangzheng.github.io/codes/Code_BTR_CR.zip)
+- Yang Gui, Zhaorui Tan, Yan Xu, **Chunzhong Li$^*$**, \"Heterogeneous graph contrastive learning for integration and alignment of spatial transcriptomics data", Briefings in Bioinformatics, Volume 26, Issue 5, September 2025, bbaf497. [[Website]](https://academic.oup.com/bib/article/26/5/bbaf497/8280091?login=false&utm_source=advanceaccess&utm_campaign=bib&utm_medium=email) [[Code]]( https://github.com/Lab-Xu/GRASS/)
 
 - **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Chao Li, Ting-Zhu Huang, Qibin Zhao, \"Tensor Network Decomposition for Data Recovery: Recent Advancements and Future Prospects\", _Neural Networks_, vol. 191, pp. 107808, 2025. [[Website]](https://www.sciencedirect.com/science/article/pii/S0893608025006884)
 
