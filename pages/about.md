@@ -98,10 +98,4 @@ My current interests include high-dimensional analysis (高维数据分析), mac
 
 - *2025.08*: \"Tensor low rank and noise intensity aware hyperspectral image denoising\", _IGARSS 2025, Brisbane, Australia (Oral) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf)
 
-## ⌨ Editor and Reviewer
-
--  Optik (Special Issues--Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery: Theory, Models, Algorithms, and Applications), _Guest Editor_
--  IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), _Reviewer_
--  International Journal of Computer Vision (IJCV), _Reviewer_
-
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
