@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yu-Bang Zheng (郑玉棒) | SWJTU"
+title                    : "Chun-Zhong Li (李春忠) | AUFE"
 description              : "<br>"
-repository               : "yubangzheng/yubangzheng.github.io"
+repository               : "czhongli/czhongli.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "<center>Yu-Bang Zheng</center> <center>(郑玉棒)</center>"
-  avatar           : "images/yubangzheng.jpg"
-  bio              : "<center>Southwest Jiaotong University (SWJTU)<center>"
-  location         : "Chengdu, China"
+  name             : "<center>Chun-Zhong Li</center> <center>(李春忠)</center>"
+  avatar           : "images/czhongli.jpg"
+  bio              : "<center>Anhui University of Finance and Economics (AUFE)<center>"
+  location         : "Bengbu, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yubangzheng"
+  github           : "czhongli"
   google_plus      :
   keybase          :
   instagram        :
