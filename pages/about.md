@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently working with the Institute of statistics and applied mathematics, Anhui University of Finance and Economics, Bengbu, China. I received the Ph.D. degree (advised by Zongben Xu) from the School of mathematics, Xi'an Jiaotong University, Xi'an, Shannxi. 
 
-My current interests include high-dimensional image processing, machine learning and single-cell transcriptomics. 
+My current interests include high-dimensional analysis (高维数据分析), machine learning and deep learning (机器学习与深度学习), single-cell transcriptomics (单细胞转录组学). 
 
 📢 <span style="color:blue">**My team admits 4  master’s students each year. In addition, we offer research training opportunities for undergraduate students who are interested in gaining hands-on research experience. Self-motivated students are welcome to join my team. Please feel free to contact me**.</span>
 
@@ -54,7 +54,7 @@ My current interests include high-dimensional image processing, machine learning
 
 
 
-# <img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20251020132734242.png" alt="image-20251020132734242" style="zoom:25%;" /> Course and Blog
+# 🌐 Course and Blog
 
 - [Deep Leaning with PyTorch](https://blog.csdn.net/weixin_40234309/category_12167779.html)
 - [Modeling and Practice of Machine Learning](https://blog.csdn.net/weixin_40234309/category_12088843.html)
