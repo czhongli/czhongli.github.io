@@ -39,17 +39,11 @@ My current interests include high-dimensional image processing, machine learning
 </div>
 </div>
 -->
-- *2025.09*: &nbsp; Two papers are accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_. 
-- *2025.09*: &nbsp; One paper is accepted by _**IEEE Transactions on Neural Networks and Learning Systems**_. 
-- *2025.08*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_. 
-- *2025.07*: &nbsp; One paper is accepted by _**IEEE Transactions on Circuits and Systems for Video Technology**_. 
-- *2025.06*: &nbsp; One paper is accepted by _**Neural Networks**_. 
-- *2025.06*: &nbsp; One paper is accepted by _**IEEE Transactions on Big Data**_. 
-- *2025.05*: &nbsp; One paper is accepted by _**Pattern Recognition**_. 
-- *2025.04*: &nbsp; One paper is accepted by _**SIAM Journal on Scientific Computing**_.
-- *2025.02*: &nbsp; One paper is accepted by _**Signal Processing**_. 
-- *2024.12*: &nbsp; One paper is accepted by _**IEEE Transactions on Neural Networks and Learning Systems**_. 
-- *2024.10*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_. 
+
+- 2025.10: &nbsp; One papers is accepted by _**International Conference on Bioinformatics and Biomedicine (BIBM)**_. 
+- 2025.04: &nbsp; One papers is accepted by _**Briefings in Bioinformatics**_. 
+- *2025.04: &nbsp; One paper is accepted by _**2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)**_. 
+- *2024.10*: &nbsp; One paper is accepted by _**工程数学学报**_. 
 
 
 # 🧰 Projects
@@ -249,7 +243,7 @@ My current interests include high-dimensional image processing, machine learning
 -  [Prof. Qing Zhu (朱庆教授)](https://faculty.swjtu.edu.cn/zhuqing/zh_CN/index.htm)
 -  [Prof. Qibin Zhao](https://qibinzhao.github.io)
 -  ... ...
-  
+
 <!-- 
 -  [Prof. Tai-Xiang Jiang (蒋太翔)](https://taixiangjiang.github.io)
 -  [Dr. Teng-Yu Ji (冀腾宇)](https://teacher.nwpu.edu.cn/tengyuji.html)
