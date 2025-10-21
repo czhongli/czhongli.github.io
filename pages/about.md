@@ -32,13 +32,6 @@ My current interests include high-dimensional analysis (高维数据分析), mac
 - 2025.04: &nbsp; One paper is printed by _**2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)**_. 
 - *2025.10*: &nbsp; One paper is printed by _**工程数学学报**_. 
 
-# 🧰 Projects
-
--  [Tensor Decomposition](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TenNet_ToolBox"><img src="https://yubangzheng.github.io/images/tennettoolbox.png" width="250"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TSVD_ToolBox"><img src="https://yubangzheng.github.io/images/tnntoolbox.png" width="250"></a>
-
 
 
 # 🌐 Course and Blog
@@ -47,6 +40,15 @@ My current interests include high-dimensional analysis (高维数据分析), mac
 - [Modeling and Practice of Machine Learning](https://blog.csdn.net/weixin_40234309/category_12088843.html)
 - [Algorithm Design and Intelligence Computing](https://blog.csdn.net/weixin_40234309/category_12220879.html)
 - [Sparse and Low-Rank Representation of High-Dimensional Data](https://blog.csdn.net/weixin_40234309/category_12116221.html)
+
+
+
+# 🧰 Projects
+
+-  [Tensor Decomposition](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TenNet_ToolBox"><img src="https://yubangzheng.github.io/images/tennettoolbox.png" width="250"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TSVD_ToolBox"><img src="https://yubangzheng.github.io/images/tnntoolbox.png" width="250"></a>
 
 
 
