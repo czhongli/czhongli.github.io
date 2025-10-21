@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working with the Institute of statistics and applied mathematics, Anhui University of Finance and Economics, Bengbu, China. I received the Ph.D. degree (advised by Zongben Xu) from the School of mathematics, Xi'an Jiaotong University, Xi'an, Shannxi. 
+I am Associate Professor and currently working with the Institute of statistics and applied mathematics, Anhui University of Finance and Economics, Bengbu, China. I received the Ph.D. degree (advised by Zongben Xu) from the School of mathematics, Xi'an Jiaotong University, Xi'an, Shannxi. 
 
 My current interests include high-dimensional analysis (高维数据分析), machine learning and deep learning (机器学习与深度学习), single-cell transcriptomics (单细胞转录组学). 
 
