@@ -52,7 +52,7 @@ My current interests include high-dimensional analysis (高维数据分析), mac
 
 
 
-# 📄 Publications
+# 📄 Representative Publications
 
 Under Construction!
 
