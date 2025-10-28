@@ -54,35 +54,35 @@ My current interests include high-dimensional analysis (高维数据分析), mac
 
 # 📄 Representative Publications
 
-- **Chun-Zhong Li**, Xiao-Hua Yu, Xiao-Hua Wu, Bing Wang*, Tian-Yu Xia. "stDSGCL: Dual Spatially-Aware Graph Contrastive Learning for Identifying Spatial Domains in Spatial Transcriptomics",  will appear in BIBM 2025 
+- **Chun-Zhong Li**, Xiao-Hua Yu, Xiao-Hua Wu, Bing Wang*, Tian-Yu Xia. "stDSGCL: Dual Spatially-Aware Graph Contrastive Learning for Identifying Spatial Domains in Spatial Transcriptomics",  will appear in BIBM 2025. (B1)
 
-- Yang Gui, Zhaorui Tan, Yan Xu, **Chunzhong Li$^*$**, \"Heterogeneous graph contrastive learning for integration and alignment of spatial transcriptomics data", Briefings in Bioinformatics, Volume 26, Issue 5, September 2025, bbaf497. [[Website]](https://academic.oup.com/bib/article/26/5/bbaf497/8280091?login=false&utm_source=advanceaccess&utm_campaign=bib&utm_medium=email) [[Code]]( https://github.com/Lab-Xu/GRASS/)
+- Yang Gui, Zhaorui Tan, Yan Xu, **Chunzhong Li$^*$**, \"Heterogeneous graph contrastive learning for integration and alignment of spatial transcriptomics data", Briefings in Bioinformatics, Volume 26, Issue 5, September 2025, bbaf497. [[Website]](https://academic.oup.com/bib/article/26/5/bbaf497/8280091?login=false&utm_source=advanceaccess&utm_campaign=bib&utm_medium=email) [[Code]]( https://github.com/Lab-Xu/GRASS/) (A1)
 
-- **Chun-Zhong Li**, Shuo-Bing Zhou, Yang-Yang Kou, "Tensor low rank and noise intensity aware hyperspectral image denoising", IEEE IGARSS 2025.
+- **Chun-Zhong Li**, Shuo-Bing Zhou, Yang-Yang Kou, "Tensor low rank and noise intensity aware hyperspectral image denoising", IEEE IGARSS 2025.(B1)
 
-- **李春忠***, 周硕兵, 口洋洋, 靖凯立. 双自适应权重非负矩阵分解鲁棒半监督学习. 工程数学学报,  2025.
+- **李春忠***, 周硕兵, 口洋洋, 靖凯立. 双自适应权重非负矩阵分解鲁棒半监督学习. 工程数学学报,  2025. (CSCD)
 
-- Peng-Cheng Xie, **Chun-Zhong Li***. Dynamic Modeling and Optimization of Energy Storage in Peer-to-Peer Energy Trading Systems. Eksploatacja i Niezawodnosc – Maintenance and Reliability, 2025: 27(2).
+- Peng-Cheng Xie, **Chun-Zhong Li***. Dynamic Modeling and Optimization of Energy Storage in Peer-to-Peer Energy Trading Systems. Eksploatacja i Niezawodnosc – Maintenance and Reliability, 2025: 27(2). (SCI)
 
-- **Chun-Zhong Li**, Liu C L, Ju W L. Dilemma and sustainable development strategy of sharing teaching resources for big data majors in universities based on game theory. Discover Artificial intelligence, 2024年11月.
+- **Chun-Zhong Li**, Liu C L, Ju W L. Dilemma and sustainable development strategy of sharing teaching resources for big data majors in universities based on game theory. Discover Artificial intelligence, 2024年11月. (EI)
 
-- **Chun-Zhong Li**, Ju W L, Chu S W. Design and application of a quality evaluation index system for sustaninable cultivation of big data professionals in universities based on bloom cognitive somain classification method. Discover Sustainability, 2024年7月
+- **Chun-Zhong Li**, Ju W L, Chu S W. Design and application of a quality evaluation index system for sustaninable cultivation of big data professionals in universities based on bloom cognitive somain classification method. Discover Sustainability, 2024年7月 (EI)
 
-- **Chun-Zhong Li**,  Wen-Liang Ju, Shi-Wei Chu, "Design and application of a quality evaluation index system for sustaninable cultivation of big data professionals in universities based on bloom cognitive somain classification method". Discover Sustainability, 2024年7月
+- **Chun-Zhong Li**,  Wen-Liang Ju, Shi-Wei Chu, "Design and application of a quality evaluation index system for sustaninable cultivation of big data professionals in universities based on bloom cognitive somain classification method". Discover Sustainability, 2024年7月. (EI)
 
-- Wei-Qi Hua, Cheng-Lan Liu, **Chun-Zhong Li***. Environmental Regulation, Government-Business Relations, and Corporate Green Innovation: Evidence from Low-Carbon City Pilot Policy. Sustainability, 2024
+- Wei-Qi Hua, Cheng-Lan Liu, **Chun-Zhong Li***. Environmental Regulation, Government-Business Relations, and Corporate Green Innovation: Evidence from Low-Carbon City Pilot Policy. Sustainability, 2024. (SCI)
 
-- 徐健, 朱海龙, 朱江乐, 李春忠. 基于物理信息神经网络的Burgers-Fisher方程求解方法. 浙江大学学报(工学版), 2023, 57(11): 2160-2169.
+- 徐健, 朱海龙, 朱江乐, 李春忠. 基于物理信息神经网络的Burgers-Fisher方程求解方法. 浙江大学学报(工学版), 2023, 57(11): 2160-2169. (B1)
 
-- Yong-Qi Hu, **Chun-Zhong Li***,  Yan Xu, "Modulation Recognition of optical and electromagnetic waves based on transfer learning". International Journal for Light and Electron Optics, vol. 29,  171359, 2023. [[Website]]([Modulation recognition of optical and electromagnetic waves based on transfer learning - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0030402623008562))
+- Yong-Qi Hu, **Chun-Zhong Li***,  Yan Xu, "Modulation Recognition of optical and electromagnetic waves based on transfer learning". International Journal for Light and Electron Optics, vol. 29,  171359, 2023. [[Website]]([Modulation recognition of optical and electromagnetic waves based on transfer learning - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0030402623008562)) (EI)
 
-- Yu-Nong Zhang, **Chun-Zhong Li**, "Manifold clustering optimized by adaptive aggregation strategy". Knowledge and Information Systems, 65:379–408, 2023.
+- Yu-Nong Zhang, **Chun-Zhong Li**, "Manifold clustering optimized by adaptive aggregation strategy". Knowledge and Information Systems, 65:379–408, 2023. (B2)
 
-- **Chun-Zhong Li**, Zong-Ben Xu, Chen Qiao, "Hierarchical clustering driven by cognitive features". Science China: Information Science, (doi: 10.1007/s11432-013-4858-x), 2014.
+- **Chun-Zhong Li**, Zong-Ben Xu, Chen Qiao, "Hierarchical clustering driven by cognitive features". Science China: Information Science, (doi: 10.1007/s11432-013-4858-x), 2014. (A1)
 
-- **Chun-Zhong Li**, Zong-Ben Xu, Tao Luo, "A heuristic hierarchical clustering based on multiple similarity measurements". Pattern Recognition Letters, 34(2), 155-162, 2013.
+- **Chun-Zhong Li**, Zong-Ben Xu, Tao Luo, "A heuristic hierarchical clustering based on multiple similarity measurements". Pattern Recognition Letters, 34(2), 155-162, 2013. (SCI)
 
-- **Chun-Zhong Li**, Zong-Ben Xu, Chen Qiao, "Agglomerative Hierarchical clustering with information feedback". Science China: Information Science, 42(6):730-742, 2012.
+- **Chun-Zhong Li**, Zong-Ben Xu, Chen Qiao, "Agglomerative Hierarchical clustering with information feedback". Science China: Information Science, 42(6):730-742, 2012. (A1)
 
 
 
