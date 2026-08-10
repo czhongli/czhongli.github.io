@@ -52,7 +52,7 @@ My current interests include high-dimensional analysis (高维数据分析), mac
 
 
 
-# 📄 Representative Publications
+# 📄 Publications during recent 3 years
 
 - **Chun-Zhong Li**, Xiao-Hua Yu, Xiao-Hua Wu, Bing Wang*, Tian-Yu Xia. "stDSGCL: Dual Spatially-Aware Graph Contrastive Learning for Identifying Spatial Domains in Spatial Transcriptomics",  will appear in BIBM 2025. (B1)
 
@@ -77,12 +77,6 @@ My current interests include high-dimensional analysis (高维数据分析), mac
 - Yong-Qi Hu, **Chun-Zhong Li***,  Yan Xu, "Modulation Recognition of optical and electromagnetic waves based on transfer learning". International Journal for Light and Electron Optics, vol. 29,  171359, 2023. [[Website]]([Modulation recognition of optical and electromagnetic waves based on transfer learning - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0030402623008562)) (EI)
 
 - Yu-Nong Zhang, **Chun-Zhong Li**, "Manifold clustering optimized by adaptive aggregation strategy". Knowledge and Information Systems, 65:379–408, 2023. (B2)
-
-- **Chun-Zhong Li**, Zong-Ben Xu, Chen Qiao, "Hierarchical clustering driven by cognitive features". Science China: Information Science, (doi: 10.1007/s11432-013-4858-x), 2014. (A1)
-
-- **Chun-Zhong Li**, Zong-Ben Xu, Tao Luo, "A heuristic hierarchical clustering based on multiple similarity measurements". Pattern Recognition Letters, 34(2), 155-162, 2013. (SCI)
-
-- **Chun-Zhong Li**, Zong-Ben Xu, Chen Qiao, "Agglomerative Hierarchical clustering with information feedback". Science China: Information Science, 42(6):730-742, 2012. (A1)
 
 
 
